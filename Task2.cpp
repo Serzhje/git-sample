@@ -20,4 +20,5 @@ void main()
 	for (int i = 0; Word[i] != 0; i++)
 
 	cin.get();
+	cin.get();
 }
