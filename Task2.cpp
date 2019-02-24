@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {
 	setlocale(LC_ALL, ".1251");
 	cout << "¬ведите символьную строку" << endl;
@@ -21,4 +21,6 @@ void main()
 
 	cin.get();
 	cin.get();
+	
+	return 0;
 }
