@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, ".1251");
-	cout << "Введите символьную строку" << endl;
+	cout << "Введите символьную строку \n" << endl;
 	
 	//Массиив для символьной строки
 	char Word[100];
