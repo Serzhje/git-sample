@@ -15,7 +15,7 @@ int main()
 	cin >> Word;
 
 	// Выводим слово
-	cout << "Это слово " << Word << endl << end;
+	cout << "Это слово " << Word << endl;
 
 	for (int i = 0; Word[i] != 0; i++)
 
